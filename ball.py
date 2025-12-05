@@ -24,7 +24,7 @@ circle_y=random.randint(0+radious,500-radious)
 
 
 #Declaring wanted variables
-#Tesing Github Connection
+#Tesing Github Connection1
 FPS=60
 
 direction='up'
